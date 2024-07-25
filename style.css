@@ -71,7 +71,7 @@ select {
     /* Стили для заголовков во второй секции */
     font-weight: 700;
     font-size: 24px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .frameworks-list {
@@ -86,7 +86,7 @@ select {
     /* Стили для нумерованного списка во второй секции */
     font-weight: 400;
     font-size: 16px;
-    padding-left: 20px;
+    padding: 0 20px;
 }
 
 .label {
@@ -127,12 +127,12 @@ table {
     /* Стили для таблицы */
     border: 1px solid #95a1bb;
     border-collapse: collapse;
+    font-size: 14px;
 }
 
 th, td {
     /* Стили для ячеек таблицы */
     font-weight: 400;
-    font-size: 14px;
     padding: 11px 14px;
     width: auto;
     height: 40px;
